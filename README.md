@@ -1,4 +1,4 @@
-*Declare Design Project*: 
+**Declare Design Project: **
 
 In this project I identify an experimental research design using the `DeclareDesign` package on R. This package allows users to declare and diagnose research designs to improve their quality and transparency.
 
